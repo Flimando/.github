@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="logo.png" alt="Flimando Logo" width="120" height="120">
+<img src="https://flimando.com/logo.png" alt="Flimando Logo" width="120" height="120">
 
   **Ihr zuverlässiger Partner für leistungsstarkes Game-Server Hosting**
   
