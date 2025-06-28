@@ -1,4 +1,4 @@
-# 🎮 Willkommen bei Flimando
+# 🎮 Willkommen bei Mando Developing
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Über uns
 
-**Flimando** ist ein deutsches **Entwicklungsteam**, das innovative Lösungen für die Gaming-Community entwickelt. Wir sind:
+**Mando** ist ein deutsches **Entwicklungsteam**, das innovative Lösungen für die Gaming-Community entwickelt. Wir sind:
 
 - 💻 **Entwickler** - Wir erschaffen maßgeschneiderte Software und Tools
 - 🎮 **Gaming-Enthusiasten** - Leidenschaft für Spiele treibt unsere Projekte an
@@ -79,7 +79,7 @@ Unser spezielles Minecraft-Plugin-System für erweiterte Funktionalitäten
 Treten Sie unserer Community bei und erhalten Sie Support:
 
 - 🌐 [**Website:** flimando.com](https://flimando.com/)
-- 💬 **Discord:** Nutzen Sie unseren Discord Bot für Community-Interaktion
+- 💬 [**Discord-Community:** Nutzen Sie unseren Discord-Server Community-Interaktion](https://discord.flimando.com/)
 - 📧 [**Support:** 24h Antwortzeit garantiert](mailto:support@flimando.com)
 - ⭐ [**Bewertungen:** TrustPilot](https://flimando.com/) - 4,0 Sterne
 
