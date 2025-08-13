@@ -46,14 +46,12 @@ Erlebe die ultimative Helldivers-Erfahrung mit speziellen Versionen:
 - **Darcci's Helldivers** - Minimalistischer Stratagem-Trainer
 - **Flimanda's Helldivers** - Personal Hellpad Simulator
 
-### 🤖 [Discord Bot](https://github.com/Flimando/bot)
+### 🤖 [Discord Bot](https://github.com/Flimando/discord-community-bot)
 Ein vielseitiger Discord Bot für die Flimando Community mit:
 - Unix-Befehlen (`/clear`, `/help`)
-- To-Do System (`/todo_add`, `/todo_delete`)
-- Einkaufslisten (`/shop`, `/ashop`)
 - Ticket-System (`/ticket_info`, `/setup_tickets`)
-- Port-Informationen (`/ports`)
-- GPT Integration (`/gpt`)
+- Counter-Minigame (`/setup-counter`)
+- Levelsystem (`/setup-level`,`/level`)
 
 **Technische Details:** Python, discord.py, OpenAI GPT-4, JSON-Datenbank
 
