@@ -9,6 +9,7 @@
   [![Website](https://img.shields.io/badge/Website-flimando.com-blue?style=for-the-badge)](https://flimando.com/)
   [![TrustPilot](https://img.shields.io/badge/TrustPilot-4.0★-green?style=for-the-badge)](https://de.trustpilot.com/review/flimando.com)
   [![Uptime](https://img.shields.io/badge/Uptime-99%25-brightgreen?style=for-the-badge)](https://flimando.com/)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/flimando)
   
 </div>
 
