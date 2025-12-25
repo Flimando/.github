@@ -81,6 +81,9 @@ Treten Sie unserer Community bei und erhalten Sie Support:
 - 📧 [**Support:** 24h Antwortzeit garantiert](mailto:support@flimando.com)
 - ⭐ [**Bewertungen:** TrustPilot](https://flimando.com/) - 4,0 Sterne
 
+## 💰 You can help us by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/flimando)
+
 ---
 
 <div align="center">
