@@ -56,14 +56,6 @@ Ein vielseitiger Discord Bot für die Flimando Community mit:
 
 **Technische Details:** Python, discord.py, OpenAI GPT-4, JSON-Datenbank
 
-### 🎛️ [Germando Panel](https://github.com/Flimando/germando-panel)
-Die **deutschsprachige** und speziell angepasste Version des Pelican Panels:
-- Moderne, quelloffene Web-Panel für Gameserver-Verwaltung
-- Container-Isolierung mit Docker
-- Live-Ressourcenüberwachung
-- Umfangreiche Anpassungsmöglichkeiten
-- Unterstützung für eine Vielzahl von Spielen und Software
-
 ### 🔌 [Mando Plugin](https://github.com/Flimando/mando-plugin)
 Unser spezielles Minecraft-Plugin-System für erweiterte Funktionalitäten
 
